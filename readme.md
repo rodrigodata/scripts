@@ -5,3 +5,6 @@ Essa repo esta sempre em evolucao.
 [Manjaro](/docker)
 
 [Ubuntu - WIP](/docker)
+
+## Csv
+[csv-to-json - WIP](/csv/csv_to_json.sh)
