@@ -66,7 +66,7 @@ do
                 # TODO: separar melhorar logica de geracao de JSON dinamico
 
                 json_file+="$template_json,"                
-                echo $json_file
+                
                 
             fi
             
@@ -75,3 +75,6 @@ do
     fi
 
 done < "$file"
+
+# output esperado -> {'id':'1','game':'destiny'},{'id':'2','game':'the surge 2'},{'id':'3','game':'lol'},
+echo $json_file
