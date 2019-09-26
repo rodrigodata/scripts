@@ -29,7 +29,7 @@ do
         row_array_size="${#row_array[@]}"
         json=""
 
-        # iteramos sobre todos os valores dentro do array $header_array
+        # iteramos sobre todos os valores dentro do array $row_array
         for current_cell_value in "${row_array[@]}"
         do
 
