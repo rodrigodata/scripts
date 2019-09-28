@@ -9,13 +9,13 @@ chmod +x ./csv_to_json.sh
 ./csv_to_json.sh ~/input.csv ~/output.json false
 ```
 
-input de arquivo CSV -> `~/input.csv`
+1) Input de arquivo CSV -> `~/input.csv`
 
-output de arquivo JSON -> `~/output.json`
+2) Output de arquivo JSON -> `~/output.json` 
 
-double quote ou single quote(default == double quote) -> `false`
+3) Double quote ou single quote (default == double quote) -> `false`
 
 
 ## TODO
--  Criar validacao de inputs e tratamento de erros
--  Melhorar organizacao do script.
+-  Criar validação de inputs e tratamento de erros.
+-  Melhorar organização do script.
