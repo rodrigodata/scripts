@@ -14,3 +14,8 @@ input de arquivo CSV -> `~/input.csv`
 output de arquivo JSON -> `~/output.json`
 
 double quote ou single quote(default == double quote) -> `false`
+
+
+## TODO
+-  Criar validacao de inputs e tratamento de erros
+-  Melhorar organizacao do script.
